@@ -1,4 +1,4 @@
-# angularSpringBootLab
+# Angular 5.x + SpringBoot + PrimeNG + H2 Lab
 
 Prática de aquisição de conhecimento nas tecnologias:
 
