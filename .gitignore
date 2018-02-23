@@ -1,0 +1,54 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+.metadata
+.recommenders
+RemoteSystemsTempFiles
+Servers
+vscodeworkspace
+
+patrimonio-api/.mvn
+patrimonio-api/.settings
+patrimonio-api/target
+
+# compiled output
+patrimonio-ui/dist
+patrimonio-ui/dist-server
+patrimonio-ui/tmp
+patrimonio-ui/out-tsc
+
+# dependencies
+patrimonio-ui/node_modules
+
+# IDEs and editors
+patrimonio-ui/.idea
+patrimonio-ui/.project
+patrimonio-ui/.classpath
+patrimonio-ui/.c9/
+patrimonio-ui/*.launch
+patrimonio-ui/.settings/
+patrimonio-ui/*.sublime-workspace
+
+# IDE - VSCode
+patrimonio-ui/.vscode/*
+patrimonio-ui/!.vscode/settings.json
+patrimonio-ui/!.vscode/tasks.json
+patrimonio-ui/!.vscode/launch.json
+patrimonio-ui/!.vscode/extensions.json
+
+# misc
+patrimonio-ui/.sass-cache
+patrimonio-ui/connect.lock
+patrimonio-ui/coverage
+patrimonio-ui/libpeerconnection.log
+patrimonio-ui/npm-debug.log
+patrimonio-ui/yarn-error.log
+patrimonio-ui/testem.log
+patrimonio-ui/typings
+
+# e2e
+patrimonio-ui/e2e/*.js
+patrimonio-ui/e2e/*.map
+
+# System Files
+patrimonio-ui/.DS_Store
+patrimonio-ui/Thumbs.db
